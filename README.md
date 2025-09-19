@@ -6,9 +6,9 @@ I am a 15 year old aspiring airline pilot who does programming for fun.
 - 🌱 I’m currently learning Python and C...
 - 📫 How to reach me: conor.smallwood@gmail.com
 
+---
 
-
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
