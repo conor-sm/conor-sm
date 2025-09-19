@@ -1,4 +1,6 @@
+I am a 15 year old aspiring airline pilot who does programming for fun.
 
+---
 
 - 🔭 I’m currently working on pygame games...
 - 🌱 I’m currently learning Python and C...
