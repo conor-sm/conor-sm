@@ -5,6 +5,7 @@ I am a 15 year old aspiring airline pilot who does programming for fun.
 I’m currently working on pygame videogames...
 I’m currently learning Python, Pygame and C...
 How to reach me: conor.smallwood@gmail.com
+itch.io: conor-sm
 
 ---
 
