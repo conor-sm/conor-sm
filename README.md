@@ -4,7 +4,7 @@ I am a 15 year old aspiring airline pilot who does programming for fun.
 
 <ul>
   <li>I’m currently working on Pygame videogames...</li>
-  <li>I’m currently learning Python, Pygame and C...</li>
+  <li>I’m currently learning Python, Pygame and C++...</li>
   <li>How to reach me: <a href="mailto:conor.smallwood@gmail.com">conor.smallwood@gmail.com</a></li>
   <li>itch.io: <a href="https://conor-sm.itch.io">conor-sm</a></li>
 </ul>
