@@ -8,7 +8,8 @@ I am a 15 year old aspiring airline pilot who does programming for fun and I hav
   <li>How to reach me: <a href="mailto:conor.smallwood@gmail.com">conor.smallwood@gmail.com</a></li>
   <li>itch.io: <a href="https://conor-sm.itch.io">conor-sm</a></li>
 </ul>
-
+---
+https://github-readme-stats.hackclub.dev/api/wakatime?username=13756&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 ---
 
 Languages and Tools:
