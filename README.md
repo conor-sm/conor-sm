@@ -10,10 +10,11 @@ I am a 15 year old aspiring airline pilot who does programming for fun and won a
 </ul>
 
 ---
-
+<p>Looking for my projects? You might want to checkout:</p>
 <ul>
-  <li>Looking for my projects? You might want to checkout:</li>
-  <li><link src=https://github.com/snej55/daydream>System of a Cloud (Daydream Hackathon)</link></li>
+  <li><a href = https://github.com/snej55/daydream>Daydream Hackathon</li>
+  <li><a href = https://github.com/conor-sm/surveillance-skies>Moonshot Online Game Jam Project 1</li>
+  <li><a href = https://github.com/conor-sm/chaos-car>Moonshot Game Jam Project 2</li>
 </ul>
 
 Languages and Tools:
