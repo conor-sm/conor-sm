@@ -11,6 +11,11 @@ I am a 15 year old aspiring airline pilot who does programming for fun and won a
 
 ---
 
+<ul>
+  <li>Looking for my projects? You might want to checkout:</li>
+  <li><link src=https://github.com/snej55/daydream>System of a Cloud (Daydream Hackathon)</link></li>
+</ul>
+
 Languages and Tools:
 
 <div>
