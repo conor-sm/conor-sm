@@ -1,4 +1,4 @@
-I am a 16 year old aviation and technology enthusiast who does programming and robotics for fun and won a Daydream Hackathon with my team.
+<img width="4032" height="140" alt="image" src="https://github.com/user-attachments/assets/3219aaed-8149-41e7-a397-c8584f313f14" />I am a 16 year old aviation and technology enthusiast who does programming and robotics for fun and won a Daydream Hackathon with my team.
 
 ---
 
@@ -21,7 +21,7 @@ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://jsdelivr.net" width="40" height="40" alt="C#">
+  <img src="https://github.com" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
