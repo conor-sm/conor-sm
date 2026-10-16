@@ -1,4 +1,4 @@
-I am a 16 year old aviation and technology enthusiast who does programming and robotics for fun and won a Daydream Hackathon with my team.
+I am a 16 year old aviation and technology enthusiast who does programming and robotics for fun.
 
 ---
 
