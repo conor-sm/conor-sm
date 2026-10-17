@@ -5,7 +5,7 @@ I am a 16 year old aviation and technology enthusiast who does programming and r
 <ul>
   <li>I’m currently working on C# for school and Python for data science</li>
   <li>How to reach me: <a href="mailto:conor.smallwood@gmail.com">conor.smallwood@gmail.com</a></li>
-  <li>itch.io: <a href="https://conor-sm.itch.io">conor-sm</a></li>
+  <li>itch.io (to play my games): <a href="https://conor-sm.itch.io">conor-sm</a></li>
 </ul>
 
 ---
